@@ -6,5 +6,5 @@ In this project I implemented Model Predictive Control to enable a drone (blue) 
 Additional constraints involved tracking the subject from a specified relative angle while maintaining a desired range from subject. 
 
 
-<img src="mpc.gif" width="40" height="40" />
+<img src="mpc.gif" width="50%" />
 
